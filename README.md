@@ -6,9 +6,9 @@
 
 ##  I'm a MERN stack Developer
 
-- 🔭  I love Programming.
-- 🌱  JavaScript is my Favorite programming Language. 
-                                        - 👯  I started programming with C/C++. 
+ - 🔭  I love Programming.
+ - 🌱  JavaScript is my Favorite programming Language. 
+ - 👯  I started programming with C/C++. 
                                         - 🥅  Everyday I try to solve some problem by using javaScipt.  
                                         - ⚡  Now a days React.js, Next.Js and Node.js on of my favorite JavaScript technology.
 
