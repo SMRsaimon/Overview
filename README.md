@@ -1,8 +1,8 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm  Sultan Mahmud Saimon [website-Link](https://sultanmahmud-587e3.web.app/) 👋
 
-[<img align="left" alt="Visual Studio Code" width="100px" src="https://i.ibb.co/mh61wGp/mylogo.png" />](https://sultanmahmud-587e3.web.app/)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://i.ibb.co/CsnqNjZ/iconfinder-square-linkedin-317725.png" />](https://www.linkedin.com/in/sultan-mahmud-44069a20b/)
+[<img align="left" alt="Visual Studio Code" width="300px" src="https://i.ibb.co/mh61wGp/mylogo.png" />](https://sultanmahmud-587e3.web.app/)
 
+<br/>
 ## I'm a Husband, Father, Developer, and Teacher!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
