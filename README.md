@@ -3,17 +3,16 @@
 [<img align="left" alt="Visual Studio Code" width="300px" src="https://i.ibb.co/mh61wGp/mylogo.png" />](https://sultanmahmud-587e3.web.app/)
 
 <br/>
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a MERN stack Developer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭  I love Programming.
+- 🌱  JavaScript is my Favorite programming Language. 
+- 👯  I started programming with C/C++. 
+- 🥅  Everyday I try to solve some problem by using javaScipt.  
+- ⚡  Now a days React.js, Next.Js and Node.js on of my favorite JavaScript technology.
 
-### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
 
 ### Connect with me:
 
